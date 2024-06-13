@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohammad and I'm a Software Engineer, from Iran</p>
+<p align="left">My name is Mohammad Dehghani and I'm a Software Engineer, from Iran</p>
 
 ###
 
