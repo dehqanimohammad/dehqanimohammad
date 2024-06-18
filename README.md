@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Eager to grow and explore new opportunities<br>📚 Lifelong learner seeking new challenges<br>🌐I can speak both Persian and English.</p>
+<p align="left">✨ Eager to grow and explore new opportunities<br>📚 Lifelong learner seeking new challenges<br>🌐I can speak both English and Persian.</p>
 
 ###
 
